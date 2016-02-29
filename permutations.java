@@ -29,4 +29,4 @@ public static void re(Set<Integer> s,List<Integer> t,List<List<Integer>> result)
         t.remove(t.size()-1);
     }
     }
-}
+}//test
